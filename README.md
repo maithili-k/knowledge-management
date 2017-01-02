@@ -2,7 +2,7 @@
 
 **1. How do we handle all the user requests, problems reported and their solutions, keep track of it all and share with everyone?**
 
-As a first step, in these pages I will segregate the problems reported by the users and how we resolved them. So this can act as a knowledge database.
+As a first step, in these pages I will form as a knowledge database.
 
 This will help us to identify the following:
 
@@ -28,4 +28,6 @@ Given the changing size of the group - additions as well as subtractions, a groo
 In these pages, I will segregate the reported problems (addressing the first 3 points above) and we take it from there. We can eventually resort
 to a tooling system (e.g., PUR, etc.) There are tools also being considered SURFsara wide, which as I undersatnd will be tested over the coming weeks (Markus,
 what was the name of that tool Jeroen E. mentioned?). To check the usability of these, or any tool for that matter, we must first identify the type of problems we 
-face and our workflow of handling them. 
+face and our workflow for handling them. 
+
+If we don't see a solution from these tooling systems in the near future (I say in 2 months) we shall explore other tools as by then I intend to have a framework for knowledge management based on our problem solving workflow. These 2 months will give me time to accumulate a variety of problems and ensure all categories are covered after taking inputs from the grid team.
