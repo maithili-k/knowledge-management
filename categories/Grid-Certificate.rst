@@ -9,7 +9,7 @@ Grid certificate
 .. _get-cert:
 
 ===================================
-Getting the Dutch grid certificate]
+Getting the Dutch grid certificate
 ===================================
 
 1. ...
