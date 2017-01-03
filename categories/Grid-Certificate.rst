@@ -30,4 +30,4 @@ Grid certificate
 
 - Write to servicedesk-icts@uva.nl and ask them to add these to the user's profile on https://profile.surfconext.nl. That should do the trick.
 
-**How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?** 
+*How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?*
