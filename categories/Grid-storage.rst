@@ -1,10 +1,26 @@
-**Grid Storage**
+Grid Storage
+*************
 
-Problems associated with:
 
-1. Storage clients
+.. contents:: 
+    :depth: 4
 
-2. Staging files
 
-3. Slow speed/failures/stalling
+.. _storage-client:
+
+===================================
+Storage clients
+===================================
+
+.. _staging_files:
+
+===================================
+Staging files
+===================================
+
+.. _slow:
+===================================
+Slow speed/failures/stalling
+===================================
+
 
