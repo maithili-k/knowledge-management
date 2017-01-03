@@ -1,16 +1,23 @@
 
 Grid certificate
-******************
+****************
 
-* [Getting the Dutch grid certificate](#get-cert) <br>
+.. contents:: 
+    :depth: 5
 
 
-## <a name="get-cert"></a>Getting the Dutch grid certificate
+.. _get-cert:
+
+===================================
+Getting the Dutch grid certificate]
+===================================
 
 1. ...
 
-**Non-Dutch CA**
-
+.. _non-dutch:
+===============
+Non-Dutch CA
+===============
 1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA. 
 
 https://helpdesk.surfsara.nl/ticket/12805
@@ -23,11 +30,17 @@ https://helpdesk.surfsara.nl/ticket/15070
 
 *Is there a list of CAs for all countries? What should be our standard response?*
 
-**Problems with using the certificate**
+..  _prob-cert:
+===================================
+Problems with using the certificate
+===================================
 
 1. ...
 
-**Renewing the certificate**
+.. _renew-cert:
+===================================
+Renewing the certificate
+===================================
 
 1. The users can do it themselves [renew certificate](http://doc.grid.surfsara.nl/en/latest/Pages/FAQ.html#how-can-i-renew-my-certificate.html). However, some users could not do it.
 
