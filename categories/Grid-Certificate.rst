@@ -7,6 +7,17 @@ Grid certificate
 
 **Non-Dutch CA**
 
+1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA. 
+
+https://helpdesk.surfsara.nl/ticket/12805
+
+2. Two users from Switzerland need the ceritifcate. they were pointed to
+
+https://www.switch.ch/pki/manage/request/user-certificate/
+https://helpdesk.surfsara.nl/ticket/15070
+
+*Is there a list of CAs for all countries? What should be our standard response?*
+
 **Problems with using the certificate**
 
 **Renewing the certificate**
@@ -29,5 +40,7 @@ Grid certificate
    urn: mace: terena.org: TCS: personal-user
 
 - Write to servicedesk-icts@uva.nl and ask them to add these to the user's profile on https://profile.surfconext.nl. That should do the trick.
+
+https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 *How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?*
