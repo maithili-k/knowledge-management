@@ -1,8 +1,23 @@
 Life Science Grid Clusters
 ***************************
 
-1. UI on the cluster
+.. contents:: 
+    :depth: 5
 
-2. PBS job submission
 
-3. Using grid storage from the cluster
+.. _UI-on-cluster:
+
+===================================
+UI on the cluster
+===================================
+
+.. _pbs:
+
+===================================
+ PBS job submission
+===================================
+.. _grid-storage:
+
+===================================
+Using grid storage from the cluster
+===================================
