@@ -1,11 +1,31 @@
-**Submitting jobs on the grid**
+Submitting jobs on the grid
+***************************
 
-Problems with:
+.. contents:: 
+    :depth: 4
 
-1. Job submission
 
-2. Job status / cancellation
+.. _job-submission:
 
-3. Output retrieval
+===================================
+ Job submission
+===================================
 
-4. JDL associated problems
+.. _output:
+
+===================================
+Output retrieval
+===================================
+
+.. _jdl:
+
+===================================
+JDL associated problems
+===================================
+
+.. _job-status:
+
+===================================
+Job status / cancellation
+===================================
+
