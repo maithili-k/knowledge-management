@@ -20,7 +20,7 @@ Non-Dutch CA
 ===============
 1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`t1`_]
 
-2. Two users from Switzerland needed the ceritifcate. They were pointed to the _`Swiss CA`_ [`t2`_]
+2. Two users from Switzerland needed the ceritifcate. They were pointed to the `Swiss CA`_  [`t2`_]
 
 *Is there a list of CAs for all countries? What should be our standard response?*
 
