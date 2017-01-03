@@ -3,11 +3,13 @@ New project requests
 ********************
 **1. Sterrenkundeproject Radboud Universiteit (15/08/2016)**
 
-*What*: BlackGEM project - an optical telescope project (long term) located in Chile with big data storage (100s of TB) and processing requirements (upto 1000k hours over 5 years). 
+*What*: BlackGEM project - an optical telescope located in Chile
 
-*Steps followed:* Meeting held, ideas discussed. They had to propose for NWO funding (Sept 1 2016 deadline, results expected in few months time).
+*Requirements*: Big data storage (100s of TB) and processing (upto 1000k hours) over 5 years 
 
-*Status*: 2 Jan 2017 - still awaiting to hear about the outcome of the grant application.
+*Steps followed:* Meeting held, ideas discussed. They had to propose for NWO funding (Sept 1 2016 deadline, results expected in few months time)
+
+*Status*: 2 Jan 2017 - still awaiting to hear about the outcome of the grant application
 
 **What should be our action plan? Do we contact them or wait for them to approach us again?**
 
