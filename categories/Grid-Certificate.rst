@@ -5,6 +5,8 @@ Grid certificate
 
 **Getting the Dutch grid certificate**
 
+1. ...
+
 **Non-Dutch CA**
 
 1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA. 
@@ -20,6 +22,8 @@ https://helpdesk.surfsara.nl/ticket/15070
 *Is there a list of CAs for all countries? What should be our standard response?*
 
 **Problems with using the certificate**
+
+1. ...
 
 **Renewing the certificate**
 
