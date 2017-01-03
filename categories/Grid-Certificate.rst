@@ -18,7 +18,7 @@ Getting the Dutch grid certificate
 ===============
 Non-Dutch CA
 ===============
-1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [1](https://helpdesk.surfsara.nl/ticket/12805)
+1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`1`]
 
 2. Two users from Switzerland need the ceritifcate. they were pointed to
 
@@ -62,3 +62,8 @@ Renewing the certificate
 https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 *How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?*
+
+.. Links:
+
+.. _`SURFsara helpdesk`: https://www.surf.nl/en/about-surf/contact/helpdesk-surfsara-services/index.html
+.. `1`: https://helpdesk.surfsara.nl/ticket/12805
