@@ -36,7 +36,7 @@ Problems with using the certificate
 Renewing the certificate
 ===================================
 
-1. The users can do it themselves `renew certificate`_. However, some users could not do it [_`t3_`].
+1. The users can do it themselves `renew certificate`_. However, some users could not do it [_`t3`_].
 
 - The user should go to https://www.digicert.com/sso where he/she has to enter the University name and is redirected to login via their internal (UvAnet) ID. Here the user can renew the certificate.
 
