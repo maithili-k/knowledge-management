@@ -35,21 +35,21 @@ The categories are as follows:
 
 [New projects](https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst)
 
-*[User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
+[User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
   
-*[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst)
+[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst)
   
-*[Virtual Organisation](https://github.com/maithili-k/knowledge-management/blob/master/categories/Virtual-Organisation.rst)
+[Virtual Organisation](https://github.com/maithili-k/knowledge-management/blob/master/categories/Virtual-Organisation.rst)
   
-*[Grid job submission](https://github.com/maithili-k/knowledge-management/blob/master/categories/grid-jobs.rst)
+[Grid job submission](https://github.com/maithili-k/knowledge-management/blob/master/categories/grid-jobs.rst)
   
-*[Grid Storage](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-storage.rst)
+[Grid Storage](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-storage.rst)
   
-*[LSG clusters](https://github.com/maithili-k/knowledge-management/blob/master/categories/LSG-clusters.rst)
+[LSG clusters](https://github.com/maithili-k/knowledge-management/blob/master/categories/LSG-clusters.rst)
   
-*[Security](https://github.com/maithili-k/knowledge-management/blob/master/categories/security.rst)
+[Security](https://github.com/maithili-k/knowledge-management/blob/master/categories/security.rst)
 
-*[Software Installation](https://github.com/maithili-k/knowledge-management/blob/master/categories/software.rst)
+[Software Installation](https://github.com/maithili-k/knowledge-management/blob/master/categories/software.rst)
 
-*[Tokens](https://github.com/maithili-k/knowledge-management/blob/master/categories/tokens.rst)
+[Tokens](https://github.com/maithili-k/knowledge-management/blob/master/categories/tokens.rst)
 
