@@ -65,4 +65,4 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 .. Links:
 
-.. _`l1`: https://helpdesk.surfsara.nl/ticket/12805.html 
+.. _`l1`: https://helpdesk.surfsara.nl/ticket/12805 
