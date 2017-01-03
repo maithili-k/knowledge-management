@@ -36,7 +36,7 @@ Problems with using the certificate
 Renewing the certificate
 ===================================
 
-1. The users can do it themselves `renew certificate`_. However, some users could not do it.
+1. The users can do it themselves `renew certificate`_. However, some users could not do it [_`t3_`].
 
 - The user should go to https://www.digicert.com/sso where he/she has to enter the University name and is redirected to login via their internal (UvAnet) ID. Here the user can renew the certificate.
 
@@ -55,8 +55,6 @@ Renewing the certificate
 
 - Write to servicedesk-icts@uva.nl and ask them to add these to the user's profile on https://profile.surfconext.nl. That should do the trick.
 
-https://helpdesk.surfsara.nl/ticket/13282#comment:19
-
 *How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?*
 
 .. Links:
@@ -68,5 +66,7 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 .. _`t2`: https://helpdesk.surfsara.nl/ticket/15070
 
 .. _`renew certificate`:  http://doc.grid.surfsara.nl/en/latest/Pages/FAQ.html#how-can-i-renew-my-certificate.html
+
+.. _`t3`: https://helpdesk.surfsara.nl/ticket/13282
 
 
