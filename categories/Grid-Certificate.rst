@@ -14,6 +14,7 @@ https://helpdesk.surfsara.nl/ticket/12805
 2. Two users from Switzerland need the ceritifcate. they were pointed to
 
 https://www.switch.ch/pki/manage/request/user-certificate/
+
 https://helpdesk.surfsara.nl/ticket/15070
 
 *Is there a list of CAs for all countries? What should be our standard response?*
