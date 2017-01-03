@@ -1,6 +1,5 @@
-**Life Science Grid Clusters**
-
-Problems with:
+Life Science Grid Clusters
+***************************
 
 1. UI on the cluster
 
