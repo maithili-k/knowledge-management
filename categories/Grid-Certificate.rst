@@ -19,7 +19,7 @@ Getting the Dutch grid certificate
 Non-Dutch CA
 ===============
 1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`1`_]
-
+_1_
 2. Two users from Switzerland need the ceritifcate. they were pointed to
 
 https://www.switch.ch/pki/manage/request/user-certificate/
@@ -62,7 +62,7 @@ Renewing the certificate
 https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 *How do we solve this problem for all the users? Contact the ICT or update our wiki so the users do it themselves?*
-
+_`1`__
 .. Links:
 
-.. _`1`__: https://helpdesk.surfsara.nl/ticket/12805 
+.. _`1`_:  https://helpdesk.surfsara.nl/ticket/12805 
