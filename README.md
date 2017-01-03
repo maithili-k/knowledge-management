@@ -16,7 +16,7 @@ The database will help us to identify the following:
 
 5. What is obsolete and what is new?
 
-6. How can we track the knowledge?
+6. How do we exchange knowledge?
 
 7. How can we make the whole process of problem-solving and knowledge-exchange smoother?
 
