@@ -11,7 +11,7 @@ Security
  Grid proxy permissions
 ===================================
 
-1. User changed the proxy permission under /tmp on the UI. It was changed back to -rw------- and the user was informed [_t1_]. 
+1. User changed the proxy permission under /tmp on the UI. It was changed back to -rw------- and the user was informed [_`t1`_]. 
 
 How do we track this?
 
