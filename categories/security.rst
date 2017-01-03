@@ -1,11 +1,21 @@
-*********
 Security
 *********
 
-**Grid proxy permissions**
+.. contents:: 
+    :depth: 4
 
-1. User changed the proxy permission under /tmp on the UI. It was changed back to -rw------- and the user was informed. (12/23/16)
+
+.. _proxy:
+
+===================================
+ Grid proxy permissions
+===================================
+
+1. User changed the proxy permission under /tmp on the UI. It was changed back to -rw------- and the user was informed [_t1_]. 
 
 How do we track this?
 
-https://helpdesk.surfsara.nl/ticket/15035
+
+.. Links
+
+.. _t1: https://helpdesk.surfsara.nl/ticket/15035
