@@ -33,7 +33,7 @@ If we don't see a solution from these tooling systems (ones under consideration 
 
 The categories are as follows:
 
-*[New projects](https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst)
+[New projects](https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst)
 
 *[User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
   
