@@ -30,3 +30,9 @@ to a tooling system (e.g., PUR, etc.) There are tools also being considered SURF
 what was the name of that tool Jeroen E. mentioned?). To evaluate the usability of these, or any tool for that matter, we must first identify the type of problems we face and our workflow for resolving them. 
 
 If we don't see a solution from these tooling systems (ones under consideration at the moment) in the near future (I say in 2 months) we shall explore other tools (suggestions welcome!). These 2 months will give me time to accumulate the information on a variety of problems and ensure all are categorized after taking inputs from the grid team.
+
+The reported problems have been categorized as follows:
+
+  *[User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
+  *[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst)
+
