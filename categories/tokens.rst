@@ -1,9 +1,24 @@
-**Using the token data base**
+Using the token data base
+****************************
 
-Problems such as:
+.. contents:: 
+    :depth: 4
 
-1. How to provide access?
 
-2. Deleting data bases
+.. _access:
 
-3. Handling tokes
+===================================
+How to provide access?
+===================================
+
+.. _delete-db:
+
+===================================
+ Deleting data bases
+===================================
+
+.. _tokens:
+
+===================================
+Handling tokes
+===================================
