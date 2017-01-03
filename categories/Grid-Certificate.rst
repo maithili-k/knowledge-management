@@ -18,7 +18,7 @@ Getting the Dutch grid certificate
 ===============
 Non-Dutch CA
 ===============
-1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`_l1_`]
+1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`l1`_]
 
 2. Two users from Switzerland need the ceritifcate. they were pointed to
 
