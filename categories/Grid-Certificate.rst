@@ -36,7 +36,7 @@ Problems with using the certificate
 Renewing the certificate
 ===================================
 
-1. The users can do it themselves [renew certificate](http://doc.grid.surfsara.nl/en/latest/Pages/FAQ.html#how-can-i-renew-my-certificate.html). However, some users could not do it.
+1. The users can do it themselves `renew certificate`_. However, some users could not do it.
 
 - The user should go to https://www.digicert.com/sso where he/she has to enter the University name and is redirected to login via their internal (UvAnet) ID. Here the user can renew the certificate.
 
@@ -66,5 +66,7 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 .. _`Swiss CA`: https://www.switch.ch/pki/manage/request/user-certificate/
 
 .. _`t2`: https://helpdesk.surfsara.nl/ticket/15070
+
+.. _`renew certificate`:  http://doc.grid.surfsara.nl/en/latest/Pages/FAQ.html#how-can-i-renew-my-certificate.html
 
 
