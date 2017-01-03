@@ -1,7 +1,20 @@
-**Virtual Organisation**
+Virtual Organisation
+***********************
+.. contents:: 
+    :depth: 5
 
-Questions regarding:
 
-1. Which VO to join?
+.. _vo-access:
 
-2. Delay in requests approval
+===================================
+Which Vo to join
+===================================
+
+.. _delay:
+
+===================================
+Delay in requests approval
+===================================
+
+
+
