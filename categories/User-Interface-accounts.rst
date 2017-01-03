@@ -1,9 +1,22 @@
-**User Interface accounts**
+User Interface accounts
+***********************
+.. contents:: 
+    :depth: 5
 
-Problems associated with:
 
-1. Getting access
+.. _get-access:
 
-2. Logging in
+===================================
+Getting access
+===================================
 
-3. Other fails
+.. _login:
+
+===================================
+Login problems
+===================================
+.. _other-fails:
+
+===================================
+Other fails
+===================================
