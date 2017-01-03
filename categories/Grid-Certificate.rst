@@ -18,7 +18,7 @@ Getting the Dutch grid certificate
 ===============
 Non-Dutch CA
 ===============
-1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`l1`_]
+1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`1`_]
 
 2. Two users from Switzerland need the ceritifcate. they were pointed to
 
@@ -65,4 +65,4 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 .. Links:
 
-.. _`l1`: https://helpdesk.surfsara.nl/ticket/12805 
+.. _`1`__: https://helpdesk.surfsara.nl/ticket/12805 
