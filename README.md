@@ -31,8 +31,22 @@ what was the name of that tool Jeroen E. mentioned?). To evaluate the usability 
 
 If we don't see a solution from these tooling systems (ones under consideration at the moment) in the near future (I say in 2 months) we shall explore other tools (suggestions welcome!). These 2 months will give me time to accumulate the information on a variety of problems and ensure all are categorized after taking inputs from the grid team.
 
-The reported problems have been categorized as follows:
+The categories are as follows:
+
+*[New projects]: (https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst)
+
 
   *[User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
+  
   *[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst)
+  
+  *[Virtual Organisation](https://github.com/maithili-k/knowledge-management/blob/master/categories/Virtual-Organisation.rst)
+  
+  *[Grid job submission](https://github.com/maithili-k/knowledge-management/blob/master/categories/grid-jobs.rst)
+  
+  *[Grid Storage](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-storage.rst)
+  
+  *[LSG clusters](https://github.com/maithili-k/knowledge-management/blob/master/categories/LSG-clusters.rst)
+  
+  *
 
