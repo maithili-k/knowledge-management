@@ -1,7 +1,7 @@
 Life Science Grid Clusters
 ***************************
 
-.. contents::: 
+.. contents:: 
     :depth: 5
 
 
