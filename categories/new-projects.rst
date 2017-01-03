@@ -1,7 +1,7 @@
 ********************
 New project requests
 ********************
-1. Sterrenkundeproject Radboud Universiteit
+**1. Sterrenkundeproject Radboud Universiteit**
 
 *What*: BlackGEM project - a big optical telescope project (long term) with big data storage (100s of TB) and processing requirements (upto 1000k hours over 5 years).
 
