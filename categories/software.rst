@@ -1,7 +1,14 @@
-**usage of your own software on the grid**
+**************************************
+Usage of your own software on the grid
+**************************************
 
 Problems associated with:
 
-1. Softdrive
+**Installation of new software (by us)**
 
-2. Problem running user software on the worker nodes
+**Softdrive (directly by the user)**
+1. https://helpdesk.surfsara.nl/ticket/15123
+
+**Problem running user software on the worker nodes**
+
+ 
