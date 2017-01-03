@@ -2,7 +2,7 @@
 
 **How do we handle all the user requests, problems reported and their solutions, keep track of it all and share with everyone?**
 
-As a first step, in these pages I will form a knowledge database. We do have the ticketing system, but given that the solution often lies somewhere different than the question from the user, keyword search can yield too many results. Also, you may not even know what keyword search for (particularly for newbies). We can rely on the good memory of our colleagues, but is not the ideal solution. Also grid is statically dynamic and dynamically static, so external manuals and documentation that may point in the right direction can be hard to come by. 
+As a first step, in these pages I will form a knowledge database. We do have the ticketing system, but given that the solution often lies somewhere different than the question from the user, a keyword search can yield too many results. Also, you may not even know what keyword to search for (particularly for newbies). We can rely on the good memory of our colleagues, but is not the ideal solution. Also grid is statically dynamic and dynamically static, so external manuals and documentation that may point in the right direction can be hard to come by. 
 
 The database will help us to identify the following:
 
