@@ -65,5 +65,4 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 
 .. Links:
 
-.. _`SURFsara helpdesk`: https://www.surf.nl/en/about-surf/contact/helpdesk-surfsara-services/index.html
-.. `1`: https://helpdesk.surfsara.nl/ticket/12805
+.. _`l1`: https://helpdesk.surfsara.nl/ticket/12805.html 
