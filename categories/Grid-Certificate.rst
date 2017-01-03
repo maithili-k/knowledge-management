@@ -1,11 +1,9 @@
 **Grid certificate**
 
-Problems such as:
+*Getting the Dutch grid certificate*
 
-1. Getting the Dutch grid certificate 
+*Non-Dutch CA*
 
-2. Non-Dutch CA
+*How to use it (a lot of stuff on the wiki, but not all)*
 
-3. How to use it (a lot of stuff on the wiki, but not all)
-
-4. Renewing the certificate
+*Renewing the certificate*
