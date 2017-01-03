@@ -2,8 +2,12 @@
 Grid certificate
 ******************
 
+# LSG course 2016-11-22
 
-**Getting the Dutch grid certificate**
+* [Getting the Dutch grid certificate](#get-cert) <br>
+
+
+## <a name="get-cert"></a>Getting the Dutch grid certificate
 
 1. ...
 
