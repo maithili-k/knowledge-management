@@ -1,18 +1,32 @@
-**************************************
 Usage of your own software on the grid
 **************************************
 
-Problems associated with:
-
-**Installation of new software (by us)**
-
-1. pyyaml is on loui but not on grid worker nodes (or spui). Can you install it? (3/1/17)
-   https://helpdesk.surfsara.nl/ticket/15123
+.. contents:: 
+    :depth: 4
 
 
-**Softdrive (directly by the user)**
+.. _install:
+
+===================================
+Installation of new software (by us)
+===================================
+
+1. pyyaml is on loui but not on grid worker nodes (or spui). Can you install it [`t1`_]? 
+   
+.. _softdrive:
+
+===================================
+Softdrive (directly by the user)
+===================================
+
+.. _work-node:
+
+===================================
+Problem running user software on the worker nodes
+===================================
 
 
-**Problem running user software on the worker nodes**
+.. Links
 
- 
+..  _`t1`:  https://helpdesk.surfsara.nl/ticket/15123
+
