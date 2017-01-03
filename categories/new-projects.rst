@@ -1,4 +1,6 @@
-**New project requests**
+********************
+New project requests
+********************
 
 1. Sterrenkundeproject Radboud Universiteit
 
