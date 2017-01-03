@@ -27,7 +27,6 @@ Given the changing size of the group - additions as well as subtractions, a groo
 
 In these pages, I will segregate the reported problems (addressing the first 3 points above) and we take it from there. We can eventually resort
 to a tooling system (e.g., PUR, etc.) There are tools also being considered SURFsara wide, which as I undersatnd will be tested over the coming weeks (Markus,
-what was the name of that tool Jeroen E. mentioned?). To check the usability of these, or any tool for that matter, we must first identify the type of problems we 
-face and our workflow for handling them. 
+what was the name of that tool Jeroen E. mentioned?). To evaluate the usability of these, or any tool for that matter, we must first identify the type of problems we face and our workflow for resolving them. 
 
-If we don't see a solution from these tooling systems in the near future (I say in 2 months) we shall explore other tools as by then I intend to have a framework for knowledge management based on our problem solving workflow. These 2 months will give me time to accumulate a variety of problems and ensure all categories are covered after taking inputs from the grid team.
+If we don't see a solution from these tooling systems (ones under consideration at the moment) in the near future (I say in 2 months) we shall explore other tools (suggestions welcome!). These 2 months will give me time to accumulate the information on a variety of problems and ensure all are categorized after taking inputs from the grid team.
