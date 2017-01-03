@@ -1,6 +1,7 @@
-*****************
+
 Grid certificate
 ******************
+
 
 **Getting the Dutch grid certificate**
 
@@ -9,4 +10,5 @@ Grid certificate
 **Problems with using the certificate**
 
 **Renewing the certificate**
+
 1. The users can do it themselves [renew-certificate](http://doc.grid.surfsara.nl/en/latest/Pages/FAQ.html#how-can-i-renew-my-certificate). However, some users could not do it
