@@ -20,11 +20,7 @@ Non-Dutch CA
 ===============
 1. An Australian user needed the grid certificate. She had to get it from Taiwan as she could not find the local CA [`t1`_]
 
-2. Two users from Switzerland need the ceritifcate. they were pointed to
-
-https://www.switch.ch/pki/manage/request/user-certificate/
-
-https://helpdesk.surfsara.nl/ticket/15070
+2. Two users from Switzerland needed the ceritifcate. They were pointed to the _`Swiss CA`_ [`t2`_]]
 
 *Is there a list of CAs for all countries? What should be our standard response?*
 
@@ -66,3 +62,8 @@ https://helpdesk.surfsara.nl/ticket/13282#comment:19
 .. Links:
 
 .. _`t1`: https://helpdesk.surfsara.nl/ticket/12805 
+
+.. _`Swiss CA`: https://www.switch.ch/pki/manage/request/user-certificate/
+.. _`t2`: https://helpdesk.surfsara.nl/ticket/15070
+
+
