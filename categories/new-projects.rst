@@ -1,9 +1,9 @@
 ********************
 New project requests
 ********************
-**1. Sterrenkundeproject Radboud Universiteit**
+**1. Sterrenkundeproject Radboud Universiteit (15/08/2016)**
 
-*What*: BlackGEM project - an optical telescope project (long term) located in Chile with big data storage (100s of TB) and processing requirements (upto 1000k hours over 5 years).
+*What*: BlackGEM project - an optical telescope project (long term) located in Chile with big data storage (100s of TB) and processing requirements (upto 1000k hours over 5 years). 
 
 *Steps followed:* Meeting held, ideas discussed. They had to propose for NWO funding (Sept 1 2016 deadline, results expected in few months time).
 
