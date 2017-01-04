@@ -31,4 +31,4 @@ Slow speed/failures/stalling
 
 - Various upgrades and tests but we do not have a solution yet. For now the user is getting access to the data via a VM on cloud.
 
-.. _`projectMine`: _https://helpdesk.surfsara.nl/ticket/13812
+.. _`projectMine`: https://helpdesk.surfsara.nl/ticket/13812
