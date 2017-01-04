@@ -54,5 +54,10 @@ The categories are as follows:
 
 [Miscellaneous unsolved problems](https://github.com/maithili-k/knowledge-management/blob/master/categories/unsolved.rst)
 
+These are the categories derived from the [grid-wiki](http://doc.grid.surfsara.nl/en/latest/). As we are starting the new year, I thought the beheerders could spend a few minutes after their shift ends and start logging the interesting tickets here. This way even they can go back to it in the future without having to look back in their emails or search in the ticketing system, and other colleagues with similar tickets can look up here.  In the 'grid certificate' section I have logged my tickets as an example. I will request the entire team to also log the tickets from previous years which they think could be useful to complete our knowledge database. This is different from the grid-wiki, as it will target our team than our users. Of course this means a little extra work for all, but it will certainly help to improve the efficiency of our service and importantly build protocols - this is something that is not defined for all possible scenarios and not all our colleagues know about them.
 
-These are the categories derived from the [grid-wiki](http://doc.grid.surfsara.nl/en/latest/). 
+While the tooling systems (PUR, HEAT) are under evaluation/development, having a data base with all this knowledge can be built. When these tools take over the knowledge management, this database will help us define what/how we would like these tools to do, and certainly define protocols. 
+
+We can either keep these pages here or move them to a closed location not accessible to others (Internal SURFsara pages perhaps?). 
+
+Please let me know what you think of this as a starting point. If you let me know soon, I can send the link around and discuss with our teams in the next group meeting.
