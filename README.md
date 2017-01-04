@@ -32,11 +32,11 @@ If we don't see a solution from these tooling systems (ones under consideration 
 
 The categories are as follows:
 
-[New projects](https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst)
+[New projects](https://github.com/maithili-k/knowledge-management/blob/master/categories/new-projects.rst) - please check this one
 
 [User Interface accounts](https://github.com/maithili-k/knowledge-management/blob/master/categories/User-Interface-accounts.rst)
   
-[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst)
+[Grid Certificate](https://github.com/maithili-k/knowledge-management/blob/master/categories/Grid-Certificate.rst) - please check this one
   
 [Virtual Organisation](https://github.com/maithili-k/knowledge-management/blob/master/categories/Virtual-Organisation.rst)
   
