@@ -1,7 +1,7 @@
 ********************
 New project requests
 ********************
-**1. Sterrenkundeproject Radboud Universiteit (15/08/2016)**
+**1. Sterrenkundeproject Radboud Universiteit (15/08/2016) [`p1`_]**
 
 *What*: BlackGEM project - an optical telescope located in Chile
 
@@ -11,6 +11,8 @@ New project requests
 
 *Status*: 2 Jan 2017 - still awaiting to hear about the outcome of the grant application
 
-**What should be our action plan? Do we contact them or wait for them to approach us again?**
+*What should be our action plan? Do we contact them or wait for them to approach us again?*
 
-https://helpdesk.surfsara.nl/ticket/11787
+.. Links
+
+.. _`p1`: https://helpdesk.surfsara.nl/ticket/11787
