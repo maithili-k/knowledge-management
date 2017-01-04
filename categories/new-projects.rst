@@ -7,9 +7,9 @@ New project requests
 
 *Requirements*: Big data storage (100s of TB) and processing (upto 1000k hours) over 5 years 
 
-*Steps followed:* Meeting held, ideas discussed. They had to propose for NWO funding (Sept 1 2016 deadline, results expected in few months time)  _`t1`_
+*Steps followed:* Meeting held, ideas discussed. They had to propose for NWO funding (Sept 1 2016 deadline, results expected in few months time)
 
-*Status*: 2 Jan 2017 - still awaiting to hear about the outcome of the grant application
+*Status*: 2 Jan 2017 - still awaiting to hear about the outcome of the grant application t1_
 
 *What should be our action plan? Do we contact them or wait for them to approach us again?*
 
