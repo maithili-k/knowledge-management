@@ -55,4 +55,4 @@ The categories are as follows:
 [Miscellaneous unsolved problems](https://github.com/maithili-k/knowledge-management/blob/master/categories/unsolved.rst)
 
 
-These are the categories derived from the grid-wiki_:(http://doc.grid.surfsara.nl/en/latest/). 
+These are the categories derived from the [grid-wiki](http://doc.grid.surfsara.nl/en/latest/). 
