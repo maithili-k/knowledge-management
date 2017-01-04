@@ -1,4 +1,4 @@
-# Managing the knowledge databse
+# Managing the knowledge database
 
 **How do we handle all the user requests, problems reported and their solutions, keep track of it all and share with everyone?**
 
@@ -26,7 +26,7 @@ Given the changing size of the group - additions as well as subtractions, a groo
 (After coining the term found out what it actually means - http://www.urbandictionary.com/define.php?term=groogle) or a goud (google cloud, which means http://www.urbandictionary.com/define.php?term=goud). Just like we have a wiki for our users, a wiki for our internal usage could be very useful.
 
 In these pages, I will segregate the reported problems (addressing the first 3 points above) and we take it from there. We can eventually resort
-to a tooling system (e.g., PUR, etc.) There are tools also being considered SURFsara wide, which as I undersatnd will be tested over the coming weeks (called heat). To evaluate the usability of these, or any tool for that matter, we must first identify the type of problems we face and our workflow for resolving them. 
+to a tooling system (e.g., PUR, etc.) There are tools also being considered SURFsara wide, which as I undersatnd will be tested over the coming weeks (e.g., heat). To evaluate the usability of these, or any tool for that matter, we must first identify the type of problems we face and our workflow for resolving them. 
 
 If we don't see a solution from these tooling systems (ones under consideration at the moment) in the near future (I say in 2 months?) we shall explore other tools (suggestions welcome!). These 2 months will give me time to accumulate the information on a variety of problems and ensure all are categorized after taking inputs from the grid team.
 
