@@ -53,3 +53,6 @@ The categories are as follows:
 [Tokens](https://github.com/maithili-k/knowledge-management/blob/master/categories/tokens.rst)
 
 [Miscellaneous unsolved problems](https://github.com/maithili-k/knowledge-management/blob/master/categories/unsolved.rst)
+
+
+These are the categories derived from the grid-wiki_:(http://doc.grid.surfsara.nl/en/latest/). 
