@@ -1,7 +1,7 @@
 ********************
 New project requests
 ********************
-**1. Sterrenkundeproject Radboud Universiteit (15/08/2016)[_`p1`_]**
+**1. Sterrenkundeproject Radboud Universiteit (15/08/2016)[ _`p1`_ ]**  _`p1`_
 
 *What*: BlackGEM project - an optical telescope located in Chile
 
